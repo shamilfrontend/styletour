@@ -1,2 +1,3 @@
 # styletour
-Учебная верстка сайта на bootstrap
+
+demo - https://shamilfrontend.github.io/styletour/
